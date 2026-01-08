@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import { FaTrashAlt } from 'react-icons/fa';  
 import ExpenseForm from './components/ExpenseForm';
 import ExpenseList from './components/ExpenseList';
 import ExpenseChart from './components/ExpenseChart';
